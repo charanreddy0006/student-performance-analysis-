@@ -1,5 +1,3 @@
-# student-performance-analysis-
-Beginner data analysis project using Excel and Python
 # Student Performance Analysis
 
 ## Project Overview
